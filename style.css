@@ -1,0 +1,27 @@
+* {
+    background-color: rgb(159, 213, 231);
+}
+
+h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: blue
+}
+
+ul,
+li {
+    display: inline;
+    text-decoration: none;
+    color: blue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+li {
+    padding-left: 200px;
+}
